@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hanif Barbhuiya. I'm currently a Computer Science student
+- 👋 Hi, I’m Mo. I'm currently a Computer Science student
 - 👀 I’m interested Coding, Gaming, Travelling ✨
 - 🌱 I’m currently improving my JavaScript skills and constantly learning new things
 - 📫 How to reach me: Twitter or Email
