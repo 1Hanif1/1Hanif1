@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hanif Barbhuiya. I'm currently a Computer Science student studying in India
-- 👀 I’m interested in Front end development and eventually plan to learn backend as well
-- 🌱 I’m currently learning JavaScript and imporving my skills in HTML and CSS 
+- 👋 Hi, I’m Hanif Barbhuiya. I'm currently a Computer Science student
+- 👀 I’m interested Coding, Gaming, Travelling ✨
+- 🌱 I’m currently improving my JavaScript skills and constantly learning new things
 - 📫 How to reach me: Twitter or Email
 
 <!---
