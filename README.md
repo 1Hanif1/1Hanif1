@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanif. I'm currently a Computer Science student
-- 👀 I’m interested Coding, Gaming, Travelling ✨
-- 🌱 I’m currently improving my JavaScript skills and constantly learning new things
+- 👀 I’m interested in Coding, Gaming, Travelling ✨
+- 🌱 I’m currently improving my JavaScript skills 
 - 📫 How to reach me: Twitter or Email
 
 <!---
