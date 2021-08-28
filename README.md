@@ -3,8 +3,8 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=1hanif1&label=Profile%20views&color=0e75b6&style=flat" alt="1hanif1" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/hanifbarbhuiy15" target="blank"><img src="https://img.shields.io/twitter/follow/hanifbarbhuiy15?logo=twitter&style=for-the-badge" alt="hanifbarbhuiy15" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/hanifbarbhuiy15" target="blank"><img src="https://img.shields.io/twitter/follow/hanifbarbhuiy15?logo=twitter&style=for-the-badge" alt="hanifbarbhuiy15" /></a> </p>
+ -->
 - 🔭 I’m currently working on **improving my javaScript skills**
 
 - 🌱 I’m currently learning **tailwind CSS**
