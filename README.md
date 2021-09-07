@@ -7,7 +7,7 @@
  -->
 - 🔭 I’m currently working on **improving my javaScript skills**
 
-- 🌱 I’m currently learning **tailwind CSS**
+- 🌱 I’m currently learning **Data structures and algorithms**
 
 - 💬 Ask me about **java script**
 
