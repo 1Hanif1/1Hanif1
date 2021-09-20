@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hanif Barbhuiya</h1>
+<h1 align="center">Hi 👋 I'm Hanif Barbhuiya - Moha✨</h1>
 <h3 align="center">A person who's very interested in web development 😀</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=1hanif1&label=Profile%20views&color=0e75b6&style=flat" alt="1hanif1" /> </p> -->
@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **Twitter or Email**
 
-- ⚡ Fun fact **I love music and its my happy place**
+- ⚡ Fun fact **I love music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hanifbarbhuiy15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanifbarbhuiy15" height="30" width="40" /></a>
+<a href="https://twitter.com/MohaJS1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanifbarbhuiy15" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
