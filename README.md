@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Disney+ Clone](https://1hanif1.github.io/Disneyplus-Clone/)
 
-- 🌱 I’m currently learning **GIT**
+- 🌱 I’m currently learning **Bootstrap**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
