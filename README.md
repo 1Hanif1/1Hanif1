@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Hanif Barbhuiya - Mo✨</h1>
-<h3 align="center">I'm very interested in web development 😀</h3>
+<h3 align="center"> I'm a frontend developer 😀</h3>
 
 - 🔭 I’m currently working on [Disney+ Clone](https://1hanif1.github.io/Disneyplus-Clone/)
 
