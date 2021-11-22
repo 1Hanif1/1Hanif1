@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋 I'm Hanif Barbhuiya - Mo✨</h1>
+<h1 align="center">Hi 👋 I'm Hanif Barbhuiya</h1>
 <h3 align="center"> I'm a frontend developer 😀</h3>
 
-- 🔭 I’m currently working on [Disney+ Clone](https://1hanif1.github.io/Disneyplus-Clone/)
+- 🌱 I’m currently learning **Datastructures and Algorithms**
 
-- 🌱 I’m currently learning **Bootstrap**
-
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
-
-- 💬 Ask me about **CSS or JavaScript**
+- 💬 Ask me about **web development**
 
 - ⚡ Fun fact **I love Music**
 
