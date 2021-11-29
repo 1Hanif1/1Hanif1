@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Hanif Barbhuiya</h1>
-<h3 align="center"> I'm a frontend developer 😀</h3>
+<h3 align="center"> I am a frontend developer</h3>
 
 - 🌱 I’m currently learning **Datastructures and Algorithms**
 
