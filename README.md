@@ -1,27 +1,12 @@
-<h1 align="center">Hi 👋 I'm Hanif Barbhuiya</h1>
-<h3 align="center"> I am a frontend developer</h3>
+# Hi 👋 I am Hanif Barbhuiya 😊
 
-- 🌱 I’m currently learning **Datastructures and Algorithms**
+✨ **Who am I?**  ~ I am 19 years old 😅 I am a Computer Science student, studying in India. I go by the name **_Mo_** on my socials! Honestly I just wanted a cool nickname but couldn't think of one so just shortened my middle name to two letters and voila! there you go 😝
 
-- 💬 Ask me about **web development**
+✨ **What do I do?** ~ I am a beginner frontend developer 💻 I can build responsive web pages and can work well with APIs 😎 Have a look at my repository 😁 
 
-- ⚡ Fun fact **I love Music**
+<img align='right' width="300" src="./Hello.gif" alt="Hello Friend :)" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohajs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohajs1" height="30" width="40" /></a>
-</p>
+✨ **My Career Goals?** ~ I want to be very good at my craft! Everyone does something for a living and that becomes a part of their identity. Be it a carpenter, a Chef, a Builder, They all become good in their respective fields and provide value to society in their own ways. For me, Building cool stuff using the internet, for the people to provide value to society through my field of Computer Science is what I want to be. I wish to be a _Full Stack developer_ one day but for now, I will improve upon my frontend skills 😄
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+✨ **My Personal Goals?** ~ Live in Japan and travel around the world 🌟 I liked to watch anime and play video games, though I don't get much time now to enjoy these hobbies anymore but during those days I developed a deep interest for Japan, it's culture, Shintoism, architecture of the monuments, the language, Mount Fuji and of course the food! So I want to move there one day and experience living there 🗻 And then I want to keep travelling to other places around the world and experience all the differences in cultures and people all around the world. Some countries that I want to visit are South Korea, Canada, China and Vietnam (especially because I am a fan of [Sơn Tùng M-TP](https://en.wikipedia.org/wiki/S%C6%A1n_T%C3%B9ng_M-TP) 🎶)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1hanif1&show_icons=true&locale=en" alt="1hanif1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1hanif1&" alt="1hanif1" /></p>
-
-
-
-<!---
-1Hanif1/1Hanif1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
