@@ -1,6 +1,5 @@
 # Hi 👋 I am Hanif Barbhuiya 😊
 
-## About Me 🚀
 <img align='right' width="300" src="./Hello.gif" alt="Hello Friend :)" />
 
 ✨ **Who am I?** ~ I am a Computer Science student, studying in India. I am 19 years old 😅 I go by the name **_Mo_** on my socials! Honestly I just wanted a cool nickname but couldn't think of one so just shortened my middle name to two letters and voila! there you go 😝
