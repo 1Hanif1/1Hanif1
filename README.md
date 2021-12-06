@@ -14,7 +14,7 @@
 ✨ **My Hobbies** ~ Music, Games, Anime, Books and occasionally scrolling mindlessly on youtube shorts 😛
 ## My Repositories worth checking out 🔥
 - Forkify ~ a recipe application using vanilla JS 
-- Library management system ~ Project made using Java 
+- Disney+ Clone ~ Made for hacktober fest
 - Front end projects ~ a collection of all my frontend projects
 - Data structures and algorithms ~ Implementation of various data structures and algorithms 
 
