@@ -25,6 +25,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python logo" width="60"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap logo" width="70"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" title="php" alt="Bootstrap logo" width="80"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" title="XAMPP" alt="Xampp logo" width="60"/>&emsp;
 
 ## Contact
+<a href="https://twitter.com/HMohammedB_"><img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="XAMPP" alt="Xampp logo" width="60"/></a>&emsp;
+<a href="mailto:hanifmohammedyt@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" title="XAMPP" alt="Xampp logo" width="60"/></a>&emsp;
