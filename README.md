@@ -1,19 +1,16 @@
 # Hi 👋 I am Hanif Barbhuiya 😊
 Welcome to my profile!! Grab a seat and have a look around 😁
 
+<img align='right' width="300" src="./Hello.gif" alt="Hello Friend :)" />
+
 🌠 I'm a Computer Science student and a frontend developer in the making 😊
 
-🌠 Currently I'm Learning **Data Structures and Alogrithms**
+🌠 Currently, I'm Learning **Data Structures and Alogrithms**
 
 🌠 Have a website to be made? Hit me up. I'm available for work! 
 
-- [About Me 🌼](#About Me)
-- [Repositories 🔥]()
-- [Tech Stack 🍔]()
-- [Contact 📞]()
 
 ## About Me 🌼
-<img align='right' width="300" src="./Hello.gif" alt="Hello Friend :)" />
 
 ✨ **Who am I?** ~ I am a Computer Science student, studying in India. I am 19 years old 😅 I go by the name **_Mo_** on my socials! Honestly I just wanted a cool nickname but couldn't think of one so just shortened my middle name to two letters and voila! there you go 😝
 
