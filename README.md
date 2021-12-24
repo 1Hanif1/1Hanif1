@@ -18,8 +18,6 @@ Welcome to my profile!! Grab a seat and have a look around 😁
 
 ✨ **My Career Goals?** ~ I wish to be a _Full Stack developer_ one day but for now, I will improve upon my frontend skills 😄
 
-✨ **My Personal Goals?** ~ Move to Japan and travel around the world 🌟 
-
 ✨ **My Hobbies** ~ Music, Games, Anime, Books and occasionally scrolling mindlessly on youtube shorts 😛
 ## My Repositories worth checking out 🔥
 - Forkify ~ a recipe application using vanilla JS 
