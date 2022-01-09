@@ -14,16 +14,9 @@ Welcome to my profile!! Grab a seat and have a look around 😁
 
 ✨ I am a Computer Science student, studying in India. I am 19 years old 😅 I go by the name **_Mo_** on my socials! Honestly I just wanted a cool nickname but couldn't think of one so just shortened my middle name to two letters and voila! there you go 😝
 
-✨ I am a beginner frontend developer 💻 I can build responsive web pages and can work well with APIs 😎 Have a look at my repository 😁 
-
-✨ I wish to be a _Full Stack developer_ one day but for now, I will improve upon my frontend skills 😄
+✨ I am a beginner frontend developer 💻 I can build responsive web pages and can work well with APIs 😎 Have a look at my repositories 😁 
 
 ✨ I like to listen to Music, play games, watch anime, read books, going on walks, and watch youtube videos lol 😛
-## My Repositories worth checking out 🔥
-- Forkify ~ a recipe application using vanilla JS 
-- Disney+ Clone ~ Made for hacktober fest
-- Front end projects ~ a collection of all my frontend projects
-- Data structures and algorithms ~ Implementation of various data structures and algorithms 
 
 ## Tech I've Used 🍔
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="Html" alt="HTML5 Logo" width="50"/>&emsp;
