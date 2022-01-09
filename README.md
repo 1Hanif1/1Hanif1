@@ -18,7 +18,7 @@ Welcome to my profile!! Grab a seat and have a look around 😁
 
 ✨ I like to listen to Music, play games, watch anime, read books, going on walks, and watch youtube videos lol 😛
 
-## Tech I've Used 🍔
+### Tech I've Used 🍔
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="Html" alt="HTML5 Logo" width="30"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="Css" alt="CSS Logo" width="30"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java" alt="JAVA logo" width="30"/>&emsp;
@@ -27,6 +27,6 @@ Welcome to my profile!! Grab a seat and have a look around 😁
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap logo" width="36"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" title="php" alt="Bootstrap logo" width="40"/>&emsp;
 
-## Contact 📞
+### Contact 📞
 <a href="https://twitter.com/HMohammedB_"><img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="XAMPP" alt="Xampp logo" width="30"/></a>&emsp;
 <a href="mailto:hanifmohammedyt@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" title="XAMPP" alt="Xampp logo" width="30"/></a>&emsp;
