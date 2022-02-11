@@ -12,7 +12,7 @@ Welcome to my profile!! Grab a seat and have a look around 😁
 
 ## About Me 🌼
 
-✨ I am a Computer Science student, studying in India. I am 19 years old 😅 I go by the name **_Mo_** on my socials! Honestly I just wanted a cool nickname but couldn't think of one so just shortened my middle name to two letters and voila! there you go 😝
+✨ I am a Computer Science student, studying in India.
 
 ✨ I am a beginner frontend developer 💻 I can build responsive web pages and can work well with APIs 😎 Have a look at my repositories 😁 
 
