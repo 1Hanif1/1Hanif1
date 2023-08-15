@@ -11,7 +11,6 @@ I like coding I think
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1Hanif1&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1Hanif1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
