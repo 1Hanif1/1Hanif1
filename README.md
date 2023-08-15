@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Natours<br>👯 I’m looking to collaborate on MERN Stack projects<br>🤝 I’m looking for help with OpenSource projects<br>🌱 I’m currently learning Node JS with Express and MongoDB<br>💬 Ask me about Programming<br>⚡ Fun fact Human beings are algorithms
+I like coding I think
 
 
 ## 🌐 Socials:
